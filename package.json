@@ -1,0 +1,23 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "node_learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmkhetwal/node_learning.git"
+  },
+  "author": "chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmkhetwal/node_learning/issues"
+  },
+  "homepage": "https://github.com/cmkhetwal/node_learning#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
